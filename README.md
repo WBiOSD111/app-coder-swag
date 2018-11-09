@@ -1,5 +1,5 @@
 # Coder Swag App
-> Sorts products by category.
+> Shop for Devslopes products by category.
 
 [![Swift 4.2](https://img.shields.io/badge/Swift-4.2-orange.svg?style=flat)](https://swift.org)
 [![Build Status][travis-image]][travis-url]
